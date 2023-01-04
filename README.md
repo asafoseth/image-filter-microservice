@@ -53,9 +53,9 @@ Add your own domain name and have it point to the running services (try adding a
 [udagram-seth-image-filter-dev](http://udagram-seth-image-filter-dev.us-east-1.elasticbeanstalk.com/)
 
 ## Link to Github Repos
-*[Main: Production Branch](https://github.com/asafoseth/image-filter-microservice/tree/main)
+* [Main: Production Branch](https://github.com/asafoseth/image-filter-microservice/tree/main)
 
-*[Dev: Development Branch](https://github.com/asafoseth/image-filter-microservice/tree/dev)
+* [Dev: Development Branch](https://github.com/asafoseth/image-filter-microservice/tree/dev)
 
 
 
