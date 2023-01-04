@@ -47,5 +47,14 @@ Prevent requests without valid authentication headers.
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
-### Link to Elastic Bean Application
-http://udagram-seth-image-filter-dev.us-east-1.elasticbeanstalk.com/
+### Useful Links
+
+## Link to Elastic Bean App
+[udagram-seth-image-filter-dev](http://udagram-seth-image-filter-dev.us-east-1.elasticbeanstalk.com/)
+
+## Link to Github Repos
+[Main: Production Branch](https://github.com/asafoseth/image-filter-microservice/tree/main)
+[Dev: Development Branch](https://github.com/asafoseth/image-filter-microservice/tree/dev)
+
+
+
